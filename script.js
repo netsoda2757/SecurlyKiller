@@ -139,30 +139,28 @@ doc.write(`
   <body><div id="container">
     <center><h1>Point Blank Swap Launcher</h1></center>
 
-    <h2>―――――― Extension Killer ――――――</h2>
-    <p><span id='eee'>Extension links</span>▼</p>
+    <h2>――――――Securly Killer ――――――</h2>
+    <p><span id='eee'>Securly Links</span>▼</p>
     <div id='links'>
-      <a href='https://tinyurl.com/goofguardian'>goguardian</a>  &bull; 
-      <a href='https://tinyurl.com/goofcurly'>securly</a>  &bull; 
+      
+    <a href='https://tinyurl.com/goofcurly'>securly</a>  &bull; 
       <a href='https://tinyurl.com/goofclassroom'>securly classroom</a>  &bull; 
-      <a href='https://tinyurl.com/goofumbrella'>cisco umbrella</a>  &bull; 
-      <a href='https://tinyurl.com/goofsi'>blocksi</a>  &bull; 
-      <a href='https://tinyurl.com/goofboss'>iboss</a>
+     
       <br>
     </div>
     <p>After visiting link:</p>
     <button id='cachekill'>[Securly only] Hard Kill (cache)</button>
-    <button id='hardkill'>Soft kill extension</button><br>
+    
     <button id='hardkillrev'>Revert Hard Kill</button>
     
-    <p>To enable from soft kill, go to chrome-extension://{id here}/_generated_background_page.html</p>
+   
     <h2>――― Change tab URL (about:blank) ―――</h2>
     <input id='url'>
     <button  id='change'>Change tabs (Useless)</button>
     <p id='error'></p>
     <button  id='reload'>Reload extension (Useless)</button>
     <br>
-    <p><i>Expoit made by SprinkzMC#8421, Launcher made by NitrogenDioxide#2553</i></p>
+    <p><i>this strictily for removing securly</i></p>
   </div></body>
 </html>
 `);
